@@ -1,0 +1,7 @@
+# Raw data and generated DB are not committed - run src/build_database.py to regenerate
+data/*.csv
+olist.db
+outputs/*.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
